@@ -22,7 +22,7 @@
 
 ```yaml
 name:       Rushikesh
-role:       Senior DevOps Administrator
+role:       DevOps Administrator
 focus:      Infrastructure as Code · CI/CD · Observability · Homelab
 philosophy: "If it's not automated, it's not done."
 location:   India 🇮🇳
