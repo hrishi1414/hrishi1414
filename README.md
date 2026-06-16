@@ -14,7 +14,6 @@
 
 *Automating the boring stuff. Containerizing the rest. Running it all at home.*
 
-[![Visits](https://visitcount.itsvg.in/api?id=hrishi1414&icon=5&color=6)](https://visitcount.itsvg.in)
 ![Profile Views](https://img.shields.io/badge/dynamic/json?label=Profile%20Views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fhrishi1414%2Fvisits&style=flat-square&color=6366f1)
 
 </div>
